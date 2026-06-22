@@ -1,0 +1,5 @@
+# data is not redistributed (Kaggle IEEE-CIS license); place CSVs in "Revised Dataset/"
+Revised Dataset/
+*.csv
+__pycache__/
+*.pyc
